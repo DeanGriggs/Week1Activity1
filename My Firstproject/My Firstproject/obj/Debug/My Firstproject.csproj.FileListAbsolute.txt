@@ -1,0 +1,11 @@
+C:\dean\School\cst-150\My Firstproject\My Firstproject\bin\Debug\My Firstproject.exe.config
+C:\dean\School\cst-150\My Firstproject\My Firstproject\bin\Debug\My Firstproject.exe
+C:\dean\School\cst-150\My Firstproject\My Firstproject\bin\Debug\My Firstproject.pdb
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My Firstproject.csproj.AssemblyReference.cache
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My Firstproject.csproj.SuggestedBindingRedirects.cache
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My_Firstproject.Form1.resources
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My_Firstproject.Properties.Resources.resources
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My Firstproject.csproj.GenerateResource.cache
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My Firstproject.csproj.CoreCompileInputs.cache
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My Firstproject.exe
+C:\dean\School\cst-150\My Firstproject\My Firstproject\obj\Debug\My Firstproject.pdb
